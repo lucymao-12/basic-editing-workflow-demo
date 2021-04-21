@@ -5,6 +5,8 @@ This repository is used to demonstrate a basic editing worklfow between a local 
 This is body text 
 *italics*, **bold**
 ## Header 2
+* Bullet point
+* List
 ### Header 3
 #### Header 4
 ##### Header 5
