@@ -7,6 +7,7 @@ This is body text
 ## Header 2
 * Bullet point
 * List
+* Another change
 ### Header 3
 #### Header 4
 This is a change in github
